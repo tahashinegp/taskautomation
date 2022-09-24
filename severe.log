@@ -1,0 +1,2 @@
+23-Sep-2022 12:11:26.682 SEVERE [main] org.apache.tomcat.util.digester.Digester.fatalError Parse fatal error at line [31] column [23]
+23-Sep-2022 12:11:26.686 SEVERE [main] org.apache.catalina.startup.Catalina.start Cannot start server, server instance is not configured
